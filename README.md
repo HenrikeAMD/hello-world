@@ -1,2 +1,5 @@
 # hello-world
-Short description of a new repository
+
+Hi GHub!
+
+I'm writing a bit about myself.
